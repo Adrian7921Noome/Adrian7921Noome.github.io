@@ -6,7 +6,8 @@
    <title>Adrian Noome: About Me</title>
  </head>
     <body>
-        <h1>Hello World</h1>
+        <h1>Adrian Noome</h1>
+        <h2>About me </h2>
         <p>I'm Hosted with GitHUb Pages.</p>
     </body>
 </html>
